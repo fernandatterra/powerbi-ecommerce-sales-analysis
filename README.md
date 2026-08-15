@@ -62,7 +62,7 @@ disponível no Kaggle:
 Período dos dados: Setembro/2016 a Agosto/2018
 
 ## 🔗 Dashboard interativo
-[Acessar dashboard](seu-link-aqui)
+[Acessar dashboard](https://app.powerbi.com/view?r=eyJrIjoiNGI4OWIyOTUtY2VhZC00ZTIxLTk4ZTUtMjdjZDBmZjAzZmJiIiwidCI6IjcyODMwODAzLTI3MmMtNDMwOC1hYTFhLTY3ZWRmNmQ5OWUyMiJ9&pageName=80b07376602ea7ab78a8)
 
 ## Preview
 
