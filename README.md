@@ -16,14 +16,14 @@ do consumidor.
 
 ## Estrutura do Dashboard
 
-### 1️⃣ Visão Geral
+### 1. Visão Geral
 - **KPIs principais:** Receita (GMV), Pedidos, Ticket Médio, Nota Média e 
   Entregas no Prazo
 - **Receita e Pedidos por mês:** evolução histórica com identificação de picos
 - **Top 10 Receita por UF:** concentração geográfica das vendas
 - **Top 10 Categorias por Receita:** ranking das categorias mais rentáveis
 
-### 2️⃣ Vendas & Produtos
+### 2. Vendas & Produtos
 - **KPIs principais:** Número de Categorias, Itens Vendidos, Ticket por 
   Item e Vendedores Ativos
 - **Formas de pagamento:** distribuição entre cartão de crédito, boleto, 
@@ -31,14 +31,14 @@ do consumidor.
 - **Parcelamento das compras:** número de parcelas mais utilizado
 - **Top 10 Categorias por Volume de Itens**
 
-### 3️⃣ Logística & Entregas
+### 3. Logística & Entregas
 - **KPIs principais:** Prazo Médio Real, Prazo Médio Estimado, Folga da 
   Estimativa e Entregas Atrasadas
 - **Prazo médio de entrega por UF:** comparação entre estados
 - **Impacto do atraso na avaliação:** nota média de pedidos entregues no 
   prazo vs. com atraso
 
-### 4️⃣ Satisfação do Cliente
+### 4. Satisfação do Cliente
 - **KPIs principais:** Nota Média, Avaliações 5★, Avaliações 1-2★ e 
   Pedidos com Comentário
 - **Distribuição das notas:** volume de avaliações por nota
@@ -77,16 +77,6 @@ Período dos dados: Setembro/2016 a Agosto/2018
 
 **Satisfação do Cliente**
 ![Satisfação do Cliente](imagens/satisfacao-cliente.png)
-
-## Estrutura do repositório
-
-├── dashboard.pbix
-├── imagens/
-│   ├── visao-geral.png
-│   ├── vendas-produtos.png
-│   ├── logistica-entregas.png
-│   └── satisfacao-cliente.png
-└── README.md
 
 ## Contato
 [LinkedIn](https://www.linkedin.com/in/fernanda-terra-3650a3265)
