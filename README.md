@@ -89,4 +89,4 @@ Período dos dados: Setembro/2016 a Agosto/2018
 └── README.md
 
 ## Contato
-[LinkedIn](https://www.linkedin.com/in/fernanda-terra-3650a3265) | [E-mail](seu-email)
+[LinkedIn](https://www.linkedin.com/in/fernanda-terra-3650a3265)
