@@ -1,4 +1,4 @@
-# 📊 Dashboard Comercial — Olist E-commerce (Power BI)
+# 📊 Dashboard Comercial — Olist E-commerce
 
 ## Objetivo
 
