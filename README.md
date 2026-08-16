@@ -67,7 +67,7 @@ Período dos dados: Setembro/2016 a Agosto/2018
 ## Preview
 
 **Visão Geral**
-![Visão Geral](imagens/visao-geral.png)
+![Visão Geral](imagens/visao-geral1.png)
 
 **Vendas & Produtos**
 ![Vendas e Produtos](imagens/vendas-produtos.png)
